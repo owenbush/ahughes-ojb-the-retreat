@@ -14,14 +14,21 @@ Artwork designed by @flywiditcustoms with inspiration from this photo on pexels.
 
 ![flywidit_retreat_back](https://user-images.githubusercontent.com/669850/160897973-7e5d6e9c-4789-4b4c-80eb-220a0d812674.png)
 
+### Recording
+
+Vocals were recorded at The Lab 45 Recording Studios by Will Stephans
+
+### Release Date
+
+April 15, 2022
 
 
-### Track Listing
+### Tracklist
 
-1. Breathe
-2. Get There
-3. No Way Back
-4. Curtain Close
+1. Breathe - 1:44
+2. Get There - 3:09
+3. No Way Back - 2:20
+4. Curtain Close - 2:23
 
 
 ### About A. Hughes
