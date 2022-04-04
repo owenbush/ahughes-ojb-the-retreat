@@ -33,9 +33,9 @@ April 15, 2022
 
 ### About A. Hughes
 
-He is a rapper.
+He is the rapper.
 
 
 ### About O.J.B.
 
-He is a producer.
+He is the producer.
