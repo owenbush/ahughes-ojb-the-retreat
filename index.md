@@ -1,10 +1,10 @@
-## A. Hughes & O.J.B. - The Retreat
+## A.Hughes & O.J.B. - The Retreat
 
 Brand new 4-track EP from Lullabots Albert and Owen.
 
 ### Artwork
 
-Artwork designed by @flywiditcustoms with inspiration from this photo on pexels.com taken by @ericaazhao
+Artwork designed by [@flywiditcustom](https://instagram.com/flywiditcustoms) with inspiration from [this photo](https://www.pexels.com/photo/the-beverly-hills-building-2670273/) taken by [@ericaazhao](https://www.pexels.com/@ericazhao)
 
 **Front Cover**
 
@@ -31,7 +31,7 @@ April 15, 2022
 4. Curtain Close - 2:23
 
 
-### About A. Hughes
+### About A.Hughes
 
 He is the rapper.
 
