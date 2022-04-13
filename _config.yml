@@ -1,4 +1,9 @@
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
+
+plugins:
+ - jekyll-remote-theme
 
 title: The Retreat
 description: 4 song EP from A.Hughes and O.J.B.
+
+google_analytics: G-3KGE4KNGJJ
