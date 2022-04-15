@@ -15,8 +15,11 @@ The artwork for the front and back cover of The Retreat EP is designed by [@flyw
 ### Tracklist
 
 01 Breathe - 1:44
+
 02 Get There - 3:09
+
 03 No Way Back - 2:20
+
 04 Curtain Close - 2:23
 
 ### Release Date
