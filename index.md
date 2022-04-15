@@ -4,12 +4,12 @@ The backstory of this 4 track originally produced EP starts with the rapper meet
 
 ### Artwork
 
-The artwork for the front and back cover of The Retreat EP is designed by [@flywiditcustom](https://instagram.com/flywiditcustoms) with inspiration from [this photo](https://www.pexels.com/photo/the-beverly-hills-building-2670273/) taken by [@ericaazhao](https://www.pexels.com/@ericazhao)
+The artwork for the front and back cover of The Retreat EP is designed by [@flywiditcustom](https://instagram.com/flywiditcustoms) with inspiration from [this photo](https://www.pexels.com/photo/the-beverly-hills-building-2670273/) taken by [@ericaazhao](https://www.pexels.com/@ericazhao) 
+
+![flywidit_retreat_front](https://user-images.githubusercontent.com/669850/160897929-9b5f4dd7-6665-42fb-beed-2ce8943c9612.png)
 
 
-**Front Cover**            |  **Back Cover**
-:-------------------------:|:-------------------------:
-![flywidit_retreat_front](https://user-images.githubusercontent.com/669850/160897929-9b5f4dd7-6665-42fb-beed-2ce8943c9612.png)  |  ![flywidit_retreat_back](https://user-images.githubusercontent.com/669850/160897973-7e5d6e9c-4789-4b4c-80eb-220a0d812674.png)
+![flywidit_retreat_back](https://user-images.githubusercontent.com/669850/160897973-7e5d6e9c-4789-4b4c-80eb-220a0d812674.png)
 
 
 ### Tracklist
@@ -18,10 +18,6 @@ The artwork for the front and back cover of The Retreat EP is designed by [@flyw
 2. Get There - 3:09
 3. No Way Back - 2:20
 4. Curtain Close - 2:23
-
-### Recording
-
-Vocals were recorded at The Lab 45 Recording Studios by Will Stephans
 
 ### Release Date
 
