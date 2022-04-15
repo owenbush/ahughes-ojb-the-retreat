@@ -1,6 +1,6 @@
 ## A.Hughes & O.J.B. - The Retreat
 
-The backstory of this 4 track originally produced EP starts with the rapper meeting the producer serendipitously on a work zoom call about the company retreat. This led to the producer sharing his music with the rapper who immediately connected with the music. The production sounded like sunshine,fresh air and good times so we wanted to write to that and speak that feeling into the world. 
+The backstory of this 4 track originally produced EP starts with A.Hughes and O.J.B. meeting serendipitously on a zoom call about the company retreat. 
 
 ### Artwork
 
