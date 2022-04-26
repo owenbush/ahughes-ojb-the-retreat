@@ -5,10 +5,3 @@ plugins:
 
 title: The Retreat
 description: 4 song EP from A.Hughes and O.J.B.
-
-# Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    measurement_id : "G-MTJKHFWTHN"
-    anonymize_ip : # true, false (default)
